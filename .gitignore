@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/219-labs
+/mlenv
+/Jpg_images
+/project3,4/images_train
+/project3,4/images_validate
+/project3,4/images_test
+/project3,4/glove.twitter.27B.25d.txt
+/project3,4/glove.twitter.27B.50d.txt
+*.hdf5
+*.tsv
